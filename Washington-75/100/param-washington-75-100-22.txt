@@ -1,0 +1,4 @@
+Delay limit: 0.101542 
+Jitter limit: 0.006882 
+Delay variation limit:  0.085628 
+Bandwidth limit: 200
